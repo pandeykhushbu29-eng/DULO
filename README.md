@@ -137,3 +137,9 @@ Current Version:
 **1.0.0 Draft**
 
 This specification is DONE
+
+---
+
+# "Specifications create possibilities. Implementations bring them to life."
+
+---
