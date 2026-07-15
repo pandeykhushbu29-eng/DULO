@@ -102,9 +102,31 @@ These projects are completely independent but share the same goal of creating op
 
 ## Contributing
 
-Issues, discussions, documentation improvements, and specification proposals are welcome.
+DULO is intended to be a community-driven specification.
 
-If you discover ambiguities or areas that could be improved, please open an Issue.
+The long-term evolution of this specification does **not** depend on the continued involvement of the original author.
+
+If the original author becomes inactive or unavailable, contributors are encouraged to continue improving the specification through community collaboration.
+
+Future maintainers may:
+
+- Review and merge specification improvements.
+- Publish revised specification versions.
+- Maintain compatibility whenever practical.
+- Expand the standard while preserving its core design principles.
+- Maintain reference implementations and compliance materials.
+
+Contributors should strive to ensure that changes are:
+
+- Well documented.
+- Technically justified.
+- Backward compatible whenever practical.
+- Implementation independent.
+- Consistent with the overall architecture of DULO.
+
+The specification is intended to outlive any individual contributor.
+
+Its success depends upon an open community of implementers, reviewers, maintainers, educators, and users working together to improve it over time.
 
 ---
 
@@ -112,6 +134,6 @@ If you discover ambiguities or areas that could be improved, please open an Issu
 
 Current Version:
 
-**0.1 Draft**
+**1.0.0 Draft**
 
-This specification is under active development.
+This specification is DONE
